@@ -22,5 +22,6 @@
   |  
   --Set_create.py # 生成ImageSets文件夹中的train、trainval、val的txt  
 
-  ![]( VOCdata_Make_project/1.PNG )
+  ![](https://github.com/sheirving/VOCdata_Make_project/blob/master/1.PNG)  
+  
   3.
