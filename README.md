@@ -22,7 +22,7 @@
   |  
   --Set_create.py # 生成ImageSets文件夹中的train、trainval、val的txt  
 
-  ![](https://github.com/sheirving/VOCdata_Make_project/blob/master/1.PNG)  
+  ![](https://github.com/sheirving/VOCdata_Make_project/blob/master/Images/1.PNG)  
   
   3.
-   ！[Label Tool](https://github.com/sheirving/VOCdata_Make_project/blob/master/Images/2.JPG)
+  ！[Label Tool](https://github.com/sheirving/VOCdata_Make_project/blob/master/Images/2.JPG)
